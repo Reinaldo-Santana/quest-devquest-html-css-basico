@@ -1,0 +1,44 @@
+.titulo-moda {
+    margin-left: 76px;
+}
+
+.tabela-moda {
+    width: 280px;
+}
+
+.cabecalho-moda {
+    background-color: #bb86fc;
+    color: #ffffff;
+    padding: 8px;
+}
+
+.informacoes-moda {
+    background-color: #424250;
+    color: #ffffff;
+    padding: 8px;
+}
+
+.titulo-casa {
+    margin-left: 76px;
+}
+
+.tabela-casa {
+    width: 215px;
+}
+
+.cabecalho-casa {
+    background-color: #00c4b4;
+    color: #ffffff;
+    padding: 8px;
+}
+
+.informacoes-casa {
+    background-color: #424250;
+    color: #ffffff;
+    padding: 8px;
+}
+
+.tabela-moda, .tabela-casa {
+    margin-left: 75px;
+}
+
